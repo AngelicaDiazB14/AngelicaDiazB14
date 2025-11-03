@@ -1,9 +1,13 @@
-# 💫 About Me:
-I am a Computer Engineering student with  problem-solving and analytical skills. I excel in quick learning, a self-taught approach, and a passion for acquiring new knowledge in emerging technologies. My goal is to contribute creativity and innovation to the development of effective technological solutions.
+# 👩‍💻  About Me:
+Computer Engineering student with a strong focus on problem-solving and self-taught learning. I have practical experience in Full Stack Development, participating in different roles across both backend and frontend tasks, working in collaborative and results-oriented development teams.
 
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@angelicadiazbarrios3401) 
+
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://angelicadiazb14.github.io/my-personal-information/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/diazb14)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dbarriosangelica@gmail.com)
+
 
 
 # 💻 Tech Stack:
