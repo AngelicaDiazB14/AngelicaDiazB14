@@ -1,4 +1,4 @@
-# 👩‍💻  About Me:
+# About Me:
 Computer Engineering student with a strong focus on problem-solving and self-taught learning. I have practical experience in Full Stack Development, participating in different roles across both backend and frontend tasks, working in collaborative and results-oriented development teams.
 
 
@@ -58,9 +58,8 @@ Computer Engineering student with a strong focus on problem-solving and self-tau
 [![](https://visitcount.itsvg.in/api?id=AngelicaDiazB14&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos 
 
 ### 🎮 Ecos de Ellas
 
@@ -107,4 +106,43 @@ Aplicación para resolver problemas de programación lineal.
 Implementación del juego Pirámide en Rust.
 **Stack:** Rust
 **Repo:** [https://github.com/AngelicaDiazB14/Pyramid-Solitaire](https://github.com/AngelicaDiazB14/Pyramid-Solitaire)
+
+--- 
+### 🧪 Plan de Pruebas de Software
+
+Diseño de plan de pruebas basado en V&V para un sistema de gestión estudiantil. Incluye definición de métricas, atributos de calidad, casos de prueba y documentación formal.
+**Stack:** QA · Ingeniería de Software  
+**Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/Test_plan
+
+---
+
+### 🚛 Modelos de Transporte (Investigación de Operaciones)
+
+Aplicación de métodos NW Corner, Mínimo Costo, Vogel, Stepping Stone y MODI para optimización de costos de transporte. Manejo de casos degenerados y rutas prohibidas.
+**Stack:** Python  
+**Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/Transportation-app
+
+---
+
+### 🔤 Tokenizer + Parser (Lenguaje Triangle)
+
+Implementación de un tokenizador y analizador sintáctico para el lenguaje Triangle, con visualización del árbol sintáctico generado.
+**Stack:** Rust  
+**Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/TareaProgramada2
+
+---
+
+### 🏢 Sistema de Administración de Colas
+
+Sistema en consola para gestionar filas de atención con prioridades, múltiples áreas y estadísticas de servicio.
+**Stack:** C++  
+**Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/sistema-administracion-colas
+
+---
+
+### 🧩 Juego de Sopa de Letras
+
+Juego interactivo con interfaz gráfica, múltiples niveles y manejo dinámico de palabras.
+**Stack:** Python · Tkinter · Pygame  
+**Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/sopa_de_letras
 
