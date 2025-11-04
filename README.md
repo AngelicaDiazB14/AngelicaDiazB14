@@ -61,62 +61,76 @@ Computer Engineering student with a strong focus on problem-solving and self-tau
 
 ## 🚀 Proyectos 
 
-### 🎮 Ecos de Ellas
+### Ecos de Ellas
 
 Juego web educativo para visibilizar aportes de mujeres en la historia.
+<br>
 **Stack:** HTML, CSS, JavaScript
+<br>
 **Repo:** [https://github.com/AngelicaDiazB14/ecos-de-ellas](https://github.com/AngelicaDiazB14/ecos-de-ellas)
 
 ---
 
-### 🎧 Sistema de Recomendación Musical
+### Sistema de Recomendación Musical
 
 Recomendación de artistas usando ALS y visualización en Angular.
+<br>
 **Stack:** Apache Spark, Python, FastAPI, Angular
+<br>
 **Repo:** [https://github.com/AngelicaDiazB14/Prototipo-BD2](https://github.com/AngelicaDiazB14/Prototipo-BD2)
 
 ---
 
-### 🏘 Komuness
+### Komuness
 
 Prototipo de plataforma comunitaria colaborativa.
-**Stack:** Angular, CSS, Firebase
-**Repo:** [https://github.com/AngelicaDiazB14/Komuness](https://github.com/AngelicaDiazB14/Komuness)
+<br>
+**Stack:** React, MongoDB, JavaScript, TypeScript
+<br>
+**Repo:** [https://github.com/AngelicaDiazB14/Komuness](https://github.com/AngelicaDiazB14/Proyecto-Komuness.git)
 
 ---
 
-### 🎞 IMDB-mini Web Project
+### IMDB-mini Web Project
 
 Gestión de películas, actores y repartos, con autenticación y roles.
+<br>
 **Stack:** Angular, Node.js, Express.js, MongoDB (MEAN)
+<br>
 **Repo:** [https://github.com/AngelicaDiazB14/Proyecto-Web](https://github.com/AngelicaDiazB14/Proyecto-Web)
 
 ---
 
-### 🧮 Simplex Solver
+### Simplex Solver
 
 Aplicación para resolver problemas de programación lineal.
+<br>
 **Stack:** Python, Matplotlib, NumPy
+<br>
 **Repo:** [https://github.com/AngelicaDiazB14/simplex](https://github.com/AngelicaDiazB14/simplex)
 
 ---
 
-### 🃏 Pyramid Solitaire 
+### Pyramid Solitaire 
 
 Implementación del juego Pirámide en Rust.
+<br>
 **Stack:** Rust
+<br>
 **Repo:** [https://github.com/AngelicaDiazB14/Pyramid-Solitaire](https://github.com/AngelicaDiazB14/Pyramid-Solitaire)
 
 --- 
-### 🧪 Plan de Pruebas de Software
+### Plan de Pruebas de Software
 
 Diseño de plan de pruebas basado en V&V para un sistema de gestión estudiantil. Incluye definición de métricas, atributos de calidad, casos de prueba y documentación formal.
-**Stack:** QA · Ingeniería de Software  
+<br>
+**Stack:** QA · Ingeniería de Software
+<br>
 **Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/Test_plan
 
 ---
 
-### 🚛 Modelos de Transporte 
+### Modelos de Transporte 
 
 Aplicación de métodos NW Corner, Mínimo Costo, Vogel, Stepping Stone y MODI para optimización de costos de transporte. Manejo de casos degenerados y rutas prohibidas.
 <br>
@@ -126,7 +140,7 @@ Aplicación de métodos NW Corner, Mínimo Costo, Vogel, Stepping Stone y MODI p
 
 ---
 
-### 🔤 Tokenizer + Parser 
+### Tokenizer + Parser 
 
 Implementación de un tokenizador y analizador sintáctico para el lenguaje Triangle, con visualización del árbol sintáctico generado.
 <br>
@@ -136,7 +150,7 @@ Implementación de un tokenizador y analizador sintáctico para el lenguaje Tria
 
 ---
 
-### 🏢 Sistema de Administración de Colas
+### Sistema de Administración de Colas
 
 Sistema en consola para gestionar filas de atención con prioridades, múltiples áreas y estadísticas de servicio.
 <br>
@@ -146,7 +160,7 @@ Sistema en consola para gestionar filas de atención con prioridades, múltiples
 
 ---
 
-### 🧩 Juego de Sopa de Letras
+### Juego de Sopa de Letras
 
 Juego interactivo con interfaz gráfica, múltiples niveles y manejo dinámico de palabras.
 <br>
