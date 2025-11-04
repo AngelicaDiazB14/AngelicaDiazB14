@@ -2,7 +2,7 @@
 Computer Engineering student with a strong focus on problem-solving and self-taught learning. I have practical experience in Full Stack Development, participating in different roles across both backend and frontend tasks, working in collaborative and results-oriented development teams.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://angelicadiazb14.github.io/my-personal-information/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/diazb14)
