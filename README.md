@@ -58,3 +58,53 @@ Computer Engineering student with a strong focus on problem-solving and self-tau
 [![](https://visitcount.itsvg.in/api?id=AngelicaDiazB14&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🚀 Proyectos Destacados
+
+### 🎮 Ecos de Ellas
+
+Juego web educativo para visibilizar aportes de mujeres en la historia.
+**Stack:** HTML, CSS, JavaScript
+**Repo:** [https://github.com/AngelicaDiazB14/ecos-de-ellas](https://github.com/AngelicaDiazB14/ecos-de-ellas)
+
+---
+
+### 🎧 Sistema de Recomendación Musical
+
+Recomendación de artistas usando ALS y visualización en Angular.
+**Stack:** Apache Spark, Python, FastAPI, Angular
+**Repo:** [https://github.com/AngelicaDiazB14/Prototipo-BD2](https://github.com/AngelicaDiazB14/Prototipo-BD2)
+
+---
+
+### 🏘 Komuness
+
+Prototipo de plataforma comunitaria colaborativa.
+**Stack:** Angular, CSS, Firebase
+**Repo:** [https://github.com/AngelicaDiazB14/Komuness](https://github.com/AngelicaDiazB14/Komuness)
+
+---
+
+### 🎞 IMDB-mini Web Project
+
+Gestión de películas, actores y repartos, con autenticación y roles.
+**Stack:** Angular, Node.js, Express.js, MongoDB (MEAN)
+**Repo:** [https://github.com/AngelicaDiazB14/Proyecto-Web](https://github.com/AngelicaDiazB14/Proyecto-Web)
+
+---
+
+### 🧮 Simplex Solver
+
+Aplicación para resolver problemas de programación lineal.
+**Stack:** Python, Matplotlib, NumPy
+**Repo:** [https://github.com/AngelicaDiazB14/simplex](https://github.com/AngelicaDiazB14/simplex)
+
+---
+
+### 🃏 Pyramid Solitaire (Rust)
+
+Implementación del juego Pirámide en Rust.
+**Stack:** Rust
+**Repo:** [https://github.com/AngelicaDiazB14/Pyramid-Solitaire](https://github.com/AngelicaDiazB14/Pyramid-Solitaire)
+
