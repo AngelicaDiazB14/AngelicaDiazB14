@@ -60,11 +60,11 @@ Computer Engineering student with a strong focus on problem-solving and self-tau
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🚀 Proyectos 
+## 🚀 Projects 
 
 ### Ecos de Ellas
 
-Juego web educativo para visibilizar aportes de mujeres en la historia.
+Educational web game to highlight the contributions of women throughout history.
 <br>
 **Stack:** HTML, CSS, JavaScript
 <br>
@@ -72,9 +72,9 @@ Juego web educativo para visibilizar aportes de mujeres en la historia.
 
 ---
 
-### Sistema de Recomendación Musical
+### Music Recommendation System
 
-Recomendación de artistas usando ALS y visualización en Angular.
+Artist recommendation using ALS with data visualization in Angular.
 <br>
 **Stack:** Apache Spark, Python, FastAPI, Angular
 <br>
@@ -84,7 +84,7 @@ Recomendación de artistas usando ALS y visualización en Angular.
 
 ### Komuness
 
-Prototipo de plataforma comunitaria colaborativa.
+Collaborative community web platform focused on sharing resources, organizing activities, and strengthening local support networks.
 <br>
 **Stack:** React, MongoDB, JavaScript, TypeScript
 <br>
@@ -94,7 +94,7 @@ Prototipo de plataforma comunitaria colaborativa.
 
 ### IMDB-mini Web Project
 
-Gestión de películas, actores y repartos, con autenticación y roles.
+Management of movies, actors, and cast, including authentication and roles.
 <br>
 **Stack:** Angular, Node.js, Express.js, MongoDB (MEAN)
 <br>
@@ -104,7 +104,7 @@ Gestión de películas, actores y repartos, con autenticación y roles.
 
 ### Simplex Solver
 
-Aplicación para resolver problemas de programación lineal.
+Application for solving linear programming problems.
 <br>
 **Stack:** Python, Matplotlib, NumPy
 <br>
@@ -114,58 +114,58 @@ Aplicación para resolver problemas de programación lineal.
 
 ### Pyramid Solitaire 
 
-Implementación del juego Pirámide en Rust.
+Implementation of the Pyramid solitaire game in Rust.
 <br>
 **Stack:** Rust
 <br>
 **Repo:** [https://github.com/AngelicaDiazB14/Pyramid-Solitaire](https://github.com/AngelicaDiazB14/Projects/tree/1d3ae457ca3f98f2c03fc0aeda21a63605c69736/solitario_piramide)
 
 --- 
-### Plan de Pruebas de Software
+###  Software Test Plan
 
-Diseño de plan de pruebas basado en V&V para un sistema de gestión estudiantil. Incluye definición de métricas, atributos de calidad, casos de prueba y documentación formal.
+V&V-based test plan design for a student management system. Includes metrics, quality attributes, test cases, and formal documentation.
 <br>
-**Stack:** QA · Ingeniería de Software
+**Stack:** QA 
 <br>
-**Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/Test_plan
+**Repo:** https://github.com/AngelicaDiazB14/Projects/tree/main/Test_plan
 
 ---
 
-### Modelos de Transporte 
+### Transportation Models  
 
-Aplicación de métodos NW Corner, Mínimo Costo, Vogel, Stepping Stone y MODI para optimización de costos de transporte. Manejo de casos degenerados y rutas prohibidas.
+Application of NW Corner, Minimum Cost, Vogel, Stepping Stone, and MODI methods for cost optimization in transportation problems. Supports degenerate cases and forbidden routes.
 <br>
 **Stack:** Python 
 <br>
-**Repositorio:** [https://github.com/AngelicaDiazB14/Projects/tree/main/Transportation-app](https://github.com/AngelicaDiazB14/Projects/tree/1d3ae457ca3f98f2c03fc0aeda21a63605c69736/Transportation-app)
+**Repo:** [https://github.com/AngelicaDiazB14/Projects/tree/main/Transportation-app](https://github.com/AngelicaDiazB14/Projects/tree/1d3ae457ca3f98f2c03fc0aeda21a63605c69736/Transportation-app)
 
 ---
 
 ### Tokenizer + Parser 
 
-Implementación de un tokenizador y analizador sintáctico para el lenguaje Triangle, con visualización del árbol sintáctico generado.
+Tokenizer and parser implementation for the Triangle programming language, including syntax tree visualization.
 <br>
 **Stack:** Rust  
 <br>
-**Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/TareaProgramada2
+**Repo:** https://github.com/AngelicaDiazB14/Projects/tree/main/TareaProgramada2
 
 ---
 
-### Sistema de Administración de Colas
+### Queue Management System
 
-Sistema en consola para gestionar filas de atención con prioridades, múltiples áreas y estadísticas de servicio.
+Console-based system to manage service queues with priorities, multiple service areas, and performance statistics.
 <br>
 **Stack:** C++  
 <br>
-**Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/sistema-administracion-colas
+**Repo:** https://github.com/AngelicaDiazB14/Projects/tree/main/sistema-administracion-colas
 
 ---
 
-### Juego de Sopa de Letras
+###  Word Search Game
 
-Juego interactivo con interfaz gráfica, múltiples niveles y manejo dinámico de palabras.
+Interactive game with GUI, multiple difficulty levels, and dynamic word handling.
 <br>
 **Stack:** Python · Tkinter · Pygame 
 <br>
-**Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/sopa_de_letras
+**Repo:** https://github.com/AngelicaDiazB14/Projects/tree/main/sopa_de_letras
 
