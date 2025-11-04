@@ -101,7 +101,7 @@ Aplicación para resolver problemas de programación lineal.
 
 ---
 
-### 🃏 Pyramid Solitaire (Rust)
+### 🃏 Pyramid Solitaire 
 
 Implementación del juego Pirámide en Rust.
 **Stack:** Rust
@@ -116,18 +116,22 @@ Diseño de plan de pruebas basado en V&V para un sistema de gestión estudiantil
 
 ---
 
-### 🚛 Modelos de Transporte (Investigación de Operaciones)
+### 🚛 Modelos de Transporte 
 
 Aplicación de métodos NW Corner, Mínimo Costo, Vogel, Stepping Stone y MODI para optimización de costos de transporte. Manejo de casos degenerados y rutas prohibidas.
-**Stack:** Python  
+<br>
+**Stack:** Python 
+<br>
 **Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/Transportation-app
 
 ---
 
-### 🔤 Tokenizer + Parser (Lenguaje Triangle)
+### 🔤 Tokenizer + Parser 
 
 Implementación de un tokenizador y analizador sintáctico para el lenguaje Triangle, con visualización del árbol sintáctico generado.
+<br>
 **Stack:** Rust  
+<br>
 **Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/TareaProgramada2
 
 ---
@@ -135,7 +139,9 @@ Implementación de un tokenizador y analizador sintáctico para el lenguaje Tria
 ### 🏢 Sistema de Administración de Colas
 
 Sistema en consola para gestionar filas de atención con prioridades, múltiples áreas y estadísticas de servicio.
+<br>
 **Stack:** C++  
+<br>
 **Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/sistema-administracion-colas
 
 ---
@@ -143,6 +149,8 @@ Sistema en consola para gestionar filas de atención con prioridades, múltiples
 ### 🧩 Juego de Sopa de Letras
 
 Juego interactivo con interfaz gráfica, múltiples niveles y manejo dinámico de palabras.
-**Stack:** Python · Tkinter · Pygame  
+<br>
+**Stack:** Python · Tkinter · Pygame 
+<br>
 **Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/sopa_de_letras
 
