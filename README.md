@@ -19,6 +19,7 @@ Computer Engineering student with a strong focus on problem-solving and self-tau
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat&logo=prolog&logoColor=white)
 
 ### Web Development (Frontend)
@@ -107,7 +108,7 @@ Aplicación para resolver problemas de programación lineal.
 <br>
 **Stack:** Python, Matplotlib, NumPy
 <br>
-**Repo:** [https://github.com/AngelicaDiazB14/simplex](https://github.com/AngelicaDiazB14/simplex)
+**Repo:** [https://github.com/AngelicaDiazB14/simplex](https://github.com/AngelicaDiazB14/Projects/tree/1d3ae457ca3f98f2c03fc0aeda21a63605c69736/Simplex-app-main)
 
 ---
 
@@ -117,7 +118,7 @@ Implementación del juego Pirámide en Rust.
 <br>
 **Stack:** Rust
 <br>
-**Repo:** [https://github.com/AngelicaDiazB14/Pyramid-Solitaire](https://github.com/AngelicaDiazB14/Pyramid-Solitaire)
+**Repo:** [https://github.com/AngelicaDiazB14/Pyramid-Solitaire](https://github.com/AngelicaDiazB14/Projects/tree/1d3ae457ca3f98f2c03fc0aeda21a63605c69736/solitario_piramide)
 
 --- 
 ### Plan de Pruebas de Software
@@ -136,7 +137,7 @@ Aplicación de métodos NW Corner, Mínimo Costo, Vogel, Stepping Stone y MODI p
 <br>
 **Stack:** Python 
 <br>
-**Repositorio:** https://github.com/AngelicaDiazB14/Projects/tree/main/Transportation-app
+**Repositorio:** [https://github.com/AngelicaDiazB14/Projects/tree/main/Transportation-app](https://github.com/AngelicaDiazB14/Projects/tree/1d3ae457ca3f98f2c03fc0aeda21a63605c69736/Transportation-app)
 
 ---
 
