@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CA5E0,100:8511FA&height=200&section=header&text=About%20Me&fontSize=40&fontColor=ffffff" alt="Banner Profile" />
 </p>
@@ -101,116 +100,222 @@ Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelicaDiazB14&theme=neon&hide_border=false" />
-username=AngelicaDiazB14&theme=neon&hide_border=false&include_all_commits=true&layout=compact" />
 </p>
- 
-## 🚀 Projects 
- 
-### Ecos de Ellas
- 
-Educational web game to highlight the contributions of women throughout history.
+
+<h1 align="center">Projects</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2CA5E0,100:8511FA&height=4&width=1000" alt="divider"/>
+</p>
+
+<table align="center" width="92%">
+<tr>
+<td>
+
+```yaml
+project: "Ecos de Ellas"
+description: >
+  Educational web game to highlight the contributions
+  of women throughout history.
+stack: [HTML, CSS, JavaScript]
+repo: https://github.com/AngelicaDiazB14/ecos-de-ellas
+```
+
+</td>
+</tr>
+</table>
+
 <br>
-**Stack:** HTML, CSS, JavaScript
+
+<table align="center" width="92%">
+<tr>
+<td>
+
+```yaml
+project: "Music Recommendation System"
+description: >
+  Artist recommendation engine using ALS, with
+  data visualization built in Angular.
+stack: [Apache Spark, Python, FastAPI, Angular]
+repo: https://github.com/AngelicaDiazB14/Prototipo-BD2
+```
+
+</td>
+</tr>
+</table>
+
 <br>
-**Repo:** [https://github.com/AngelicaDiazB14/ecos-de-ellas](https://github.com/AngelicaDiazB14/ecos-de-ellas)
- 
----
- 
-### Music Recommendation System
- 
-Artist recommendation using ALS with data visualization in Angular.
+
+<table align="center" width="92%">
+<tr>
+<td>
+
+```yaml
+project: "Komuness"
+description: >
+  Collaborative community web platform focused on sharing
+  resources, organizing activities, and strengthening
+  local support networks.
+stack: [React, MongoDB, JavaScript, TypeScript]
+demo: https://youtu.be/--k2xQalzaQ
+```
+
+</td>
+</tr>
+</table>
+
 <br>
-**Stack:** Apache Spark, Python, FastAPI, Angular
+
+<table align="center" width="92%">
+<tr>
+<td>
+
+```yaml
+project: "IMDB-mini Web Project"
+description: >
+  Management of movies, actors, and cast, including
+  authentication and role-based access.
+stack: [Angular, Node.js, Express.js, MongoDB]
+repo: https://github.com/AngelicaDiazB14/Proyecto-Web
+```
+
+</td>
+</tr>
+</table>
+
 <br>
-**Repo:** [https://github.com/AngelicaDiazB14/Prototipo-BD2](https://github.com/AngelicaDiazB14/Prototipo-BD2)
- 
----
- 
-### Komuness
- 
-Collaborative community web platform focused on sharing resources, organizing activities, and strengthening local support networks.
+
+<table align="center" width="92%">
+<tr>
+<td>
+
+```yaml
+project: "Simplex Solver"
+description: >
+  Application for solving linear programming problems.
+stack: [Python, Matplotlib, NumPy]
+repo: https://github.com/AngelicaDiazB14/Projects/tree/main/Simplex-app-main
+```
+
+</td>
+</tr>
+</table>
+
 <br>
-**Stack:** React, MongoDB, JavaScript, TypeScript
+
+<table align="center" width="92%">
+<tr>
+<td>
+
+```yaml
+project: "Pyramid Solitaire"
+description: >
+  Implementation of the Pyramid solitaire card game.
+stack: [Rust]
+repo: https://github.com/AngelicaDiazB14/Projects/tree/main/solitario_piramide
+```
+
+</td>
+</tr>
+</table>
+
 <br>
-**Sistema:** 
-[![Ver Demo en YouTube](https://img.shields.io/badge/Ver_Demo-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/--k2xQalzaQ)
- 
----
- 
-### IMDB-mini Web Project
- 
-Management of movies, actors, and cast, including authentication and roles.
+
+<table align="center" width="92%">
+<tr>
+<td>
+
+```yaml
+project: "Software Test Plan"
+description: >
+  V&V-based test plan design for a student management
+  system. Includes metrics, quality attributes, test
+  cases, and formal documentation.
+stack: [QA]
+repo: https://github.com/AngelicaDiazB14/Projects/tree/main/Test_plan
+```
+
+</td>
+</tr>
+</table>
+
 <br>
-**Stack:** Angular, Node.js, Express.js, MongoDB (MEAN)
+
+<table align="center" width="92%">
+<tr>
+<td>
+
+```yaml
+project: "Transportation Models"
+description: >
+  Application of NW Corner, Minimum Cost, Vogel, Stepping
+  Stone, and MODI methods for cost optimization in
+  transportation problems. Supports degenerate cases
+  and forbidden routes.
+stack: [Python]
+repo: https://github.com/AngelicaDiazB14/Projects/tree/main/Transportation-app
+```
+
+</td>
+</tr>
+</table>
+
 <br>
-**Repo:** [https://github.com/AngelicaDiazB14/Proyecto-Web](https://github.com/AngelicaDiazB14/Proyecto-Web)
- 
----
- 
-### Simplex Solver
- 
-Application for solving linear programming problems.
+
+<table align="center" width="92%">
+<tr>
+<td>
+
+```yaml
+project: "Tokenizer + Parser"
+description: >
+  Tokenizer and parser implementation for the Triangle
+  programming language, including syntax tree
+  visualization.
+stack: [Rust]
+repo: https://github.com/AngelicaDiazB14/Projects/tree/main/TareaProgramada2
+```
+
+</td>
+</tr>
+</table>
+
 <br>
-**Stack:** Python, Matplotlib, NumPy
+
+<table align="center" width="92%">
+<tr>
+<td>
+
+```yaml
+project: "Queue Management System"
+description: >
+  Console-based system to manage service queues with
+  priorities, multiple service areas, and performance
+  statistics.
+stack: [C++]
+repo: https://github.com/AngelicaDiazB14/Projects/tree/main/sistema-administracion-colas
+```
+
+</td>
+</tr>
+</table>
+
 <br>
-**Repo:** [https://github.com/AngelicaDiazB14/simplex](https://github.com/AngelicaDiazB14/Projects/tree/1d3ae457ca3f98f2c03fc0aeda21a63605c69736/Simplex-app-main)
- 
----
- 
-### Pyramid Solitaire 
- 
-Implementation of the Pyramid solitaire game in Rust.
-<br>
-**Stack:** Rust
-<br>
-**Repo:** [https://github.com/AngelicaDiazB14/Pyramid-Solitaire](https://github.com/AngelicaDiazB14/Projects/tree/1d3ae457ca3f98f2c03fc0aeda21a63605c69736/solitario_piramide)
- 
---- 
-###  Software Test Plan
- 
-V&V-based test plan design for a student management system. Includes metrics, quality attributes, test cases, and formal documentation.
-<br>
-**Stack:** QA 
-<br>
-**Repo:** https://github.com/AngelicaDiazB14/Projects/tree/main/Test_plan
- 
----
- 
-### Transportation Models  
- 
-Application of NW Corner, Minimum Cost, Vogel, Stepping Stone, and MODI methods for cost optimization in transportation problems. Supports degenerate cases and forbidden routes.
-<br>
-**Stack:** Python 
-<br>
-**Repo:** [https://github.com/AngelicaDiazB14/Projects/tree/main/Transportation-app](https://github.com/AngelicaDiazB14/Projects/tree/1d3ae457ca3f98f2c03fc0aeda21a63605c69736/Transportation-app)
- 
----
- 
-### Tokenizer + Parser 
- 
-Tokenizer and parser implementation for the Triangle programming language, including syntax tree visualization.
-<br>
-**Stack:** Rust  
-<br>
-**Repo:** https://github.com/AngelicaDiazB14/Projects/tree/main/TareaProgramada2
- 
----
- 
-### Queue Management System
- 
-Console-based system to manage service queues with priorities, multiple service areas, and performance statistics.
-<br>
-**Stack:** C++  
-<br>
-**Repo:** https://github.com/AngelicaDiazB14/Projects/tree/main/sistema-administracion-colas
- 
----
- 
-###  Word Search Game
- 
-Interactive game with GUI, multiple difficulty levels, and dynamic word handling.
-<br>
-**Stack:** Python · Tkinter · Pygame 
-<br>
-**Repo:** https://github.com/AngelicaDiazB14/Projects/tree/main/sopa_de_letras
+
+<table align="center" width="92%">
+<tr>
+<td>
+
+```yaml
+project: "Word Search Game"
+description: >
+  Interactive game with GUI, multiple difficulty levels,
+  and dynamic word handling.
+stack: [Python, Tkinter, Pygame]
+repo: https://github.com/AngelicaDiazB14/Projects/tree/main/sopa_de_letras
+```
+
+</td>
+</tr>
+</table>
  
