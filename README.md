@@ -100,9 +100,8 @@ Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)
 <h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AngelicaDiazB14&theme=neon&hide_border=false&include_all_commits=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelicaDiazB14&theme=neon&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaDiazB14&theme=neon&hide_border=false&include_all_commits=true&layout=compact" />
+username=AngelicaDiazB14&theme=neon&hide_border=false&include_all_commits=true&layout=compact" />
 </p>
  
 ## 🚀 Projects 
