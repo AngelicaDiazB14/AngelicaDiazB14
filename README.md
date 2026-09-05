@@ -121,6 +121,10 @@ stack: [HTML, CSS, JavaScript]
 repo: https://github.com/AngelicaDiazB14/ecos-de-ellas
 ```
 
+<p align="center">
+<a href="https://github.com/AngelicaDiazB14/ecos-de-ellas"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 </td>
 </tr>
 </table>
@@ -139,6 +143,10 @@ description: >
 stack: [Apache Spark, Python, FastAPI, Angular]
 repo: https://github.com/AngelicaDiazB14/Prototipo-BD2
 ```
+
+<p align="center">
+<a href="https://github.com/AngelicaDiazB14/Prototipo-BD2"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 </tr>
@@ -160,6 +168,10 @@ stack: [React, MongoDB, JavaScript, TypeScript]
 demo: https://youtu.be/--k2xQalzaQ
 ```
 
+<p align="center">
+<a href="https://youtu.be/--k2xQalzaQ"><img src="https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
 </td>
 </tr>
 </table>
@@ -179,6 +191,10 @@ stack: [Angular, Node.js, Express.js, MongoDB]
 repo: https://github.com/AngelicaDiazB14/Proyecto-Web
 ```
 
+<p align="center">
+<a href="https://github.com/AngelicaDiazB14/Proyecto-Web"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 </td>
 </tr>
 </table>
@@ -197,6 +213,10 @@ stack: [Python, Matplotlib, NumPy]
 repo: https://github.com/AngelicaDiazB14/Projects/tree/main/Simplex-app-main
 ```
 
+<p align="center">
+<a href="https://github.com/AngelicaDiazB14/Projects/tree/main/Simplex-app-main"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 </td>
 </tr>
 </table>
@@ -214,6 +234,10 @@ description: >
 stack: [Rust]
 repo: https://github.com/AngelicaDiazB14/Projects/tree/main/solitario_piramide
 ```
+
+<p align="center">
+<a href="https://github.com/AngelicaDiazB14/Projects/tree/main/solitario_piramide"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 </tr>
@@ -234,6 +258,10 @@ description: >
 stack: [QA]
 repo: https://github.com/AngelicaDiazB14/Projects/tree/main/Test_plan
 ```
+
+<p align="center">
+<a href="https://github.com/AngelicaDiazB14/Projects/tree/main/Test_plan"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 </tr>
@@ -256,6 +284,10 @@ stack: [Python]
 repo: https://github.com/AngelicaDiazB14/Projects/tree/main/Transportation-app
 ```
 
+<p align="center">
+<a href="https://github.com/AngelicaDiazB14/Projects/tree/main/Transportation-app"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 </td>
 </tr>
 </table>
@@ -275,6 +307,10 @@ description: >
 stack: [Rust]
 repo: https://github.com/AngelicaDiazB14/Projects/tree/main/TareaProgramada2
 ```
+
+<p align="center">
+<a href="https://github.com/AngelicaDiazB14/Projects/tree/main/TareaProgramada2"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </td>
 </tr>
@@ -296,6 +332,10 @@ stack: [C++]
 repo: https://github.com/AngelicaDiazB14/Projects/tree/main/sistema-administracion-colas
 ```
 
+<p align="center">
+<a href="https://github.com/AngelicaDiazB14/Projects/tree/main/sistema-administracion-colas"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 </td>
 </tr>
 </table>
@@ -315,7 +355,10 @@ stack: [Python, Tkinter, Pygame]
 repo: https://github.com/AngelicaDiazB14/Projects/tree/main/sopa_de_letras
 ```
 
+<p align="center">
+<a href="https://github.com/AngelicaDiazB14/Projects/tree/main/sopa_de_letras"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 </td>
 </tr>
 </table>
- 
