@@ -31,6 +31,7 @@ Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)
     </td>
   </tr>
 </table>
+
 ---
  
 ### 🚀 Soft Skills & Growth
