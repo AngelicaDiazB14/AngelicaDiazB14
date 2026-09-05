@@ -118,7 +118,6 @@ description: >
   Educational web game to highlight the contributions
   of women throughout history.
 stack: [HTML, CSS, JavaScript]
-repo: https://github.com/AngelicaDiazB14/ecos-de-ellas
 ```
 
 <p align="center">
@@ -141,7 +140,6 @@ description: >
   Artist recommendation engine using ALS, with
   data visualization built in Angular.
 stack: [Apache Spark, Python, FastAPI, Angular]
-repo: https://github.com/AngelicaDiazB14/Prototipo-BD2
 ```
 
 <p align="center">
@@ -165,7 +163,6 @@ description: >
   resources, organizing activities, and strengthening
   local support networks.
 stack: [React, MongoDB, JavaScript, TypeScript]
-demo: https://youtu.be/--k2xQalzaQ
 ```
 
 <p align="center">
@@ -188,7 +185,6 @@ description: >
   Management of movies, actors, and cast, including
   authentication and role-based access.
 stack: [Angular, Node.js, Express.js, MongoDB]
-repo: https://github.com/AngelicaDiazB14/Proyecto-Web
 ```
 
 <p align="center">
@@ -210,7 +206,6 @@ project: "Simplex Solver"
 description: >
   Application for solving linear programming problems.
 stack: [Python, Matplotlib, NumPy]
-repo: https://github.com/AngelicaDiazB14/Projects/tree/main/Simplex-app-main
 ```
 
 <p align="center">
@@ -232,7 +227,6 @@ project: "Pyramid Solitaire"
 description: >
   Implementation of the Pyramid solitaire card game.
 stack: [Rust]
-repo: https://github.com/AngelicaDiazB14/Projects/tree/main/solitario_piramide
 ```
 
 <p align="center">
@@ -256,7 +250,6 @@ description: >
   system. Includes metrics, quality attributes, test
   cases, and formal documentation.
 stack: [QA]
-repo: https://github.com/AngelicaDiazB14/Projects/tree/main/Test_plan
 ```
 
 <p align="center">
@@ -281,7 +274,6 @@ description: >
   transportation problems. Supports degenerate cases
   and forbidden routes.
 stack: [Python]
-repo: https://github.com/AngelicaDiazB14/Projects/tree/main/Transportation-app
 ```
 
 <p align="center">
@@ -305,7 +297,6 @@ description: >
   programming language, including syntax tree
   visualization.
 stack: [Rust]
-repo: https://github.com/AngelicaDiazB14/Projects/tree/main/TareaProgramada2
 ```
 
 <p align="center">
@@ -329,7 +320,6 @@ description: >
   priorities, multiple service areas, and performance
   statistics.
 stack: [C++]
-repo: https://github.com/AngelicaDiazB14/Projects/tree/main/sistema-administracion-colas
 ```
 
 <p align="center">
@@ -352,7 +342,6 @@ description: >
   Interactive game with GUI, multiple difficulty levels,
   and dynamic word handling.
 stack: [Python, Tkinter, Pygame]
-repo: https://github.com/AngelicaDiazB14/Projects/tree/main/sopa_de_letras
 ```
 
 <p align="center">
