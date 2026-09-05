@@ -1,12 +1,47 @@
-# About Me:
+# 🙋‍♂️ About Me
 
-Computer Engineer graduated from the Costa Rica Institute of Technology (ITCR), with practical experience in Full Stack Development, Quality Assurance (QA/Testing), and AI-assisted software development, gained through professional internships and academic software engineering projects.
+<p align="center">
+  <img src="https://vercel.app" alt="Banner Profile" />
+</p>
 
-I have experience across the Software Development Life Cycle (SDLC), including requirements analysis, software architecture design, backend and frontend development, REST API design and integration, manual and automated testing, deployment, and technical documentation.
-I also have experience translating business needs into clear requirements and instructions for building tools and prototypes with AI coding assistants, while iteratively refining, testing, and validating AI-generated code to ensure quality, functionality, and maintainability.
+### 🎓 Profile
+Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)**, with practical experience in **Full Stack Development**, **Quality Assurance (QA/Testing)**, and AI-assisted software development, gained through professional internships and academic software engineering projects.
 
-I am a fast learner with strong adaptability, analytical thinking, and problem-solving skills. I continuously seek to acquire new knowledge, explore emerging technologies, and strengthen my technical expertise.
-I am motivated by opportunities to take on new challenges, contribute to scalable and reliable applications, learn new technologies, and grow professionally while working in agile and multidisciplinary environments.
+---
+
+### 🛠️ Core Expertise
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Software Lifecycle & Architecture</h4>
+      <ul>
+        <li>Requirements analysis and software architecture design.</li>
+        <li>Backend and frontend development.</li>
+        <li>REST API design and integration.</li>
+        <li>Manual and automated testing.</li>
+        <li>Deployment and technical documentation.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 AI-Assisted Engineering</h4>
+      <ul>
+        <li>Translating business needs into clear requirements and instructions for AI coding assistants.</li>
+        <li>Iteratively refining, testing, and validating AI-generated code.</li>
+        <li>Ensuring quality, functionality, and maintainability of software.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Soft Skills & Growth
+* **Fast Learner:** Strong adaptability, analytical thinking, and problem-solving skills.
+* **Continuous Growth:** Continuously seeking to acquire new knowledge, explore emerging technologies, and strengthen technical expertise.
+* **Motivation:** Motivated by opportunities to contribute to scalable and reliable applications, learn new technologies, and grow professionally within agile, multidisciplinary environments.
+
+---
 
 
 # 🌐 Socials:
@@ -14,6 +49,8 @@ I am motivated by opportunities to take on new challenges, contribute to scalabl
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/diazb14)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dbarriosangelica@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ang%C3%A9lica-d%C3%ADaz-barrios-696832395/)
+[![YouTube](https://shields.io)](https://www.youtube.com/@angelicadiazbarrios3401)
+[![Discord](https://shields.io)](https://discord.com/users/diazb14)
 
 
 
@@ -96,8 +133,8 @@ Collaborative community web platform focused on sharing resources, organizing ac
 <br>
 **Stack:** React, MongoDB, JavaScript, TypeScript
 <br>
-**Sistema:**
-[![Ver Demo en YouTube](https://youtube.com)](https://youtu.be/--k2xQalzaQ)
+**Sistema:** 
+[![Ver Demo en YouTube](https://ytimg.com)](https://youtu.be/--k2xQalzaQ)
 
 ---
 
