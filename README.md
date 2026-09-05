@@ -41,7 +41,7 @@ Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)
 ---
  
  
-<h3 align="center">Socials</h1>
+<h1 align="center">Socials</h1>
 
 <p align="center">
   <a href="https://t.me/diazb14"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
