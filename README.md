@@ -41,7 +41,7 @@ Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)
 ---
  
  
-# Socials:
+<h3 align="center">Socials</h3>
 
 <p align="center">
   <a href="https://t.me/diazb14"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
@@ -51,7 +51,7 @@ Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)
   <a href="https://discord.com/users/diazb14"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
 </p>
 
-# Tech Stack
+<h1 align="center">Tech Stack</h1>
 
 <table align="center" width="100%">
   <tr>
@@ -97,12 +97,12 @@ Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)
   </tr>
 </table>
 
-# GitHub Stats:
+<h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelicaDiazB14&theme=neon&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelicaDiazB14&theme=neon&hide_border=false&include_all_commits=true" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelicaDiazB14&theme=neon&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaDiazB14&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaDiazB14&theme=neon&hide_border=false&include_all_commits=true&layout=compact" />
 </p>
  
 ## 🚀 Projects 
