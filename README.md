@@ -1,7 +1,6 @@
-# About Me
- 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CA5E0,100:8511FA&height=200&section=header&text=Angélica%20Díaz&fontSize=40&fontColor=ffffff" alt="Banner Profile" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CA5E0,100:8511FA&height=200&section=header&text=About%20Me&fontSize=40&fontColor=ffffff" alt="Banner Profile" />
 </p>
 
 ### 🎓 Profile
