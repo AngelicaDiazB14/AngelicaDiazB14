@@ -41,21 +41,21 @@ Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)
 ---
  
  
-# 🌐 Socials:
- 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/diazb14)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dbarriosangelica@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ang%C3%A9lica-d%C3%ADaz-barrios-696832395/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@angelicadiazbarrios3401)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/diazb14)
- 
- 
- 
-# 💻 Tech Stack
+# Socials:
 
-<table width="100%">
+<p align="center">
+  <a href="https://t.me/diazb14"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:dbarriosangelica@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ang%C3%A9lica-d%C3%ADaz-barrios-696832395/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@angelicadiazbarrios3401"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+  <a href="https://discord.com/users/diazb14"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+</p>
+
+# Tech Stack
+
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>🔤 Programming Languages</h4>
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -66,7 +66,7 @@ Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=prolog&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>🎨 Frontend Development</h4>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -78,14 +78,14 @@ Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>⚙️ Backend & APIs</h4>
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/REST%20API-02569B.svg?style=for-the-badge&logo=swagger&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>🗄️ Databases & Data Tools</h4>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -96,12 +96,14 @@ Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)
     </td>
   </tr>
 </table>
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AngelicaDiazB14&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AngelicaDiazB14&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaDiazB14&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- 
+
+# GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelicaDiazB14&theme=neon&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelicaDiazB14&theme=neon&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaDiazB14&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
  
 ## 🚀 Projects 
  
