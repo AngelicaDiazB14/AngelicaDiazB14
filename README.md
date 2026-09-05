@@ -113,6 +113,29 @@ Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)
 <td>
 
 ```yaml
+project: "Oracle PL/SQL Labs"
+description: >
+  Database design and development labs in Oracle SQL Developer:
+  schemas, ER modeling, DML/DDL, views, and PL/SQL
+  (procedures, cursors, triggers, auditing).
+stack: [Oracle, SQL, PL/SQL, SQL Developer]
+```
+
+<p align="center">
+<a href="https://github.com/AngelicaDiazB14/oracle-plsql-labs"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center" width="92%">
+<tr>
+<td>
+
+```yaml
 project: "Ecos de Ellas"
 description: >
   Educational web game to highlight the contributions
