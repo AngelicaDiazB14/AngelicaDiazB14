@@ -1,5 +1,12 @@
 # About Me:
-Computer Engineering student with a strong focus on problem-solving and self-taught learning. I have practical experience in Full Stack Development, participating in different roles across both backend and frontend tasks, working in collaborative and results-oriented development teams.
+
+Computer Engineer graduated from the Costa Rica Institute of Technology (ITCR), with practical experience in Full Stack Development, Quality Assurance (QA/Testing), and AI-assisted software development, gained through professional internships and academic software engineering projects.
+
+I have experience across the Software Development Life Cycle (SDLC), including requirements analysis, software architecture design, backend and frontend development, REST API design and integration, manual and automated testing, deployment, and technical documentation.
+I also have experience translating business needs into clear requirements and instructions for building tools and prototypes with AI coding assistants, while iteratively refining, testing, and validating AI-generated code to ensure quality, functionality, and maintainability.
+
+I am a fast learner with strong adaptability, analytical thinking, and problem-solving skills. I continuously seek to acquire new knowledge, explore emerging technologies, and strengthen my technical expertise.
+I am motivated by opportunities to take on new challenges, contribute to scalable and reliable applications, learn new technologies, and grow professionally while working in agile and multidisciplinary environments.
 
 
 # 🌐 Socials:
@@ -89,7 +96,8 @@ Collaborative community web platform focused on sharing resources, organizing ac
 <br>
 **Stack:** React, MongoDB, JavaScript, TypeScript
 <br>
-**Repo:** [https://github.com/AngelicaDiazB14/Komuness](https://github.com/AngelicaDiazB14/Proyecto-Komuness.git)
+**Sistema:**
+[![Ver Demo en YouTube](https://youtube.com)](https://youtu.be/--k2xQalzaQ)
 
 ---
 
