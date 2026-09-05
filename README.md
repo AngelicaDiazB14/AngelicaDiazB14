@@ -94,16 +94,6 @@ Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AngelicaDiazB14&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaDiazB14&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
-### 🔝 Featured Repositories
- 
-[![Music Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=AngelicaDiazB14&repo=Prototipo-BD2&theme=neon)](https://github.com/AngelicaDiazB14/Prototipo-BD2)
-[![IMDB-mini Web Project](https://github-readme-stats.vercel.app/api/pin/?username=AngelicaDiazB14&repo=Proyecto-Web&theme=neon)](https://github.com/AngelicaDiazB14/Proyecto-Web)
-[![Ecos de Ellas](https://github-readme-stats.vercel.app/api/pin/?username=AngelicaDiazB14&repo=ecos-de-ellas&theme=neon)](https://github.com/AngelicaDiazB14/ecos-de-ellas)
- 
----
-[![](https://visitcount.itsvg.in/api?id=AngelicaDiazB14&icon=5&color=3)](https://visitcount.itsvg.in)
- 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
 ## 🚀 Projects 
  
