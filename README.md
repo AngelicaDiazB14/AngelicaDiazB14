@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CA5E0,100:8511FA&height=200&section=header&text=Angélica%20Díaz&fontSize=40&fontColor=ffffff" alt="Banner Profile" />
 </p>
+
 ### 🎓 Profile
+ 
 Computer Engineer graduated from the **Costa Rica Institute of Technology (ITCR)**, with practical experience in **Full Stack Development**, **Quality Assurance (QA/Testing)**, and AI-assisted software development, gained through professional internships and academic software engineering projects.
  
 ---
